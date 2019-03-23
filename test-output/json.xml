@@ -1,0 +1,444 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 531147,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 114440,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup1()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "verify site",
+        "description": "",
+        "id": "login;verify-site",
+        "after": [
+          {
+            "result": {
+              "duration": 362309,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 135994,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 213931543,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "this is verify site link",
+            "match": {
+              "location": "StepDefinition1.this_is_verify_site_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@smoketest"
+          },
+          {
+            "line": 3,
+            "name": "@regrationtest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 296108,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 125217,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup1()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "verify username",
+        "description": "",
+        "id": "login;verify-username",
+        "after": [
+          {
+            "result": {
+              "duration": 117519,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 90834,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 308424,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "this is verify username link",
+            "match": {
+              "location": "StepDefinition1.this_is_verify_username_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 15,
+            "name": "@smoketest"
+          },
+          {
+            "line": 15,
+            "name": "@regrationtest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 447498,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 316635,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup1()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "verify branch",
+        "description": "",
+        "id": "login;verify-branch",
+        "after": [
+          {
+            "result": {
+              "duration": 238631,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 321768,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 266856,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "this is verify branch link",
+            "match": {
+              "location": "StepDefinition1.this_is_verify_branch_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 27,
+            "name": "@smoketest"
+          },
+          {
+            "line": 27,
+            "name": "@regrationtest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 421325,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2411971,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup1()"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "verify roles",
+        "description": "",
+        "id": "login;verify-roles",
+        "after": [
+          {
+            "result": {
+              "duration": 181155,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1067425,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 327925,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "this is verify roles link",
+            "match": {
+              "location": "StepDefinition1.this_is_verify_roles_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 31,
+            "name": "@smoketest"
+          },
+          {
+            "line": 31,
+            "name": "@regrationtest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 563478,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 290463,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup1()"
+            }
+          }
+        ],
+        "line": 75,
+        "name": "verify task page",
+        "description": "",
+        "id": "login;verify-task-page",
+        "after": [
+          {
+            "result": {
+              "duration": 255053,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 260698,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 306371,
+              "status": "passed"
+            },
+            "line": 76,
+            "name": "this is verify task link",
+            "match": {
+              "location": "StepDefinition1.this_is_verify_task_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 74,
+            "name": "@smoketest"
+          },
+          {
+            "line": 74,
+            "name": "@regrationtest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 280712,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 243250,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.setup1()"
+            }
+          }
+        ],
+        "line": 79,
+        "name": "verify work page",
+        "description": "",
+        "id": "login;verify-work-page",
+        "after": [
+          {
+            "result": {
+              "duration": 283278,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 278146,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinition1.testdemo1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 121112,
+              "status": "passed"
+            },
+            "line": 80,
+            "name": "this is verify work page link",
+            "match": {
+              "location": "StepDefinition1.this_is_verify_work_page_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 78,
+            "name": "@smoketest"
+          },
+          {
+            "line": 78,
+            "name": "@regrationtest"
+          }
+        ]
+      }
+    ],
+    "name": "login",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "loginpage.feature"
+  }
+]

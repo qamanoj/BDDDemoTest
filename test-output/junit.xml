@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="0.224896">
+<testcase classname="login" name="verify site" time="0.215075">
+<system-out><![CDATA[Given this is verify site link..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login" name="verify username" time="0.000938">
+<system-out><![CDATA[Given this is verify username link..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login" name="verify branch" time="0.001591">
+<system-out><![CDATA[Given this is verify branch link............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login" name="verify roles" time="0.00441">
+<system-out><![CDATA[Given this is verify roles link.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login" name="verify task page" time="0.001676">
+<system-out><![CDATA[Given this is verify task link..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login" name="verify work page" time="0.001206">
+<system-out><![CDATA[Given this is verify work page link.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
